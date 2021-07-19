@@ -10,7 +10,7 @@ public class IfExample1 {
         } else {
             System.out.println("여성이 아닙니다.");
         }
-
+        
     }
 
 }
